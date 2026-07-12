@@ -22,14 +22,14 @@ Check out my case here:
 
 ## Credits-
 Thanks to everyone in the #hackpad slack for helping answer my many questions and teaching me when I didn't understand. Specific thank-yous to:
-- # Pixelated Carlisle
-- # arthihalder
-- # CharlieCatMeow
-- # mountnrocky
-- # hww
-- # yassin
-- # dominic.stange13
-- # codecraft07
+- ### Pixelated Carlisle
+- ### arthihalder
+- ### CharlieCatMeow
+- ### mountnrocky
+- ### hww
+- ### yassin
+- ### dominic.stange13
+- ### codecraft07
 Thank you all for your help, I couldn't have done it without you!
 Also, this project was created for the Stardance challenge. Check it out here:
 https://stardance.hackclub.com/home
