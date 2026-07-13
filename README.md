@@ -14,7 +14,8 @@ Check out my PCB & try it out here:
 https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2Fdb34-eng%2FMyCroPad-
 
 Check out my case here: 
-<iframe id="vs_iframe" src="https://www.viewstl.com/?embedded&shading=smooth&clean=yes" style="border:0;margin:0;width:100%;height:100%;"></iframe>
+https://autode.sk/3SYLQmZ
+Note: This case is the final design, however, it doesn't have the USB-C Port, but the file under the CAD folder is updated to include the port. 
 
 ## Features-
 - A 3x3 9x Key Matrix
