@@ -2,6 +2,11 @@
 A 9-key matrix with a rotary encoder and an OLED screen, created for gaming.
 
 <img width="512" height="461" alt="image" src="https://github.com/user-attachments/assets/56e722e6-ecf2-4f64-92ee-7b10e43a5cbc" />
+### PCB
+
+<img width="594" height="335" alt="image" src="https://github.com/user-attachments/assets/30276901-ceb9-453f-944c-6a5faeffeb63" />
+### Case
+
 
 Check out my PCB & try it out here:
 https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2Fdb34-eng%2FMyCroPad-
