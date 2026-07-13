@@ -12,13 +12,20 @@ Check out my case here:
 - A 3x3 9x Key Matrix
 - 1x OLED Screen
 - 1x Rotary Encoder Switch
+- All controlled by a XIAO Seeed Studio Seeeduino
 - Designed for gaming, OLED screen provides visual feedback for buttons pressed, and Rotary Encoder provides finer control over movement.
 - All on a custom, designed by me, PCB (linked above)
 - A 3d printed case
 - Running on custom designed QMK firmware
 
 ## How it works- 
+- 9 key inputs & 2 directions from Rotary Encoder travel through PCB to the Seeeduino, which sends the signal to the connected computer, and shows an animation on the OLED screen. 
 - Will be updated once QMK firmware is completed
+
+## How to do it yourself:
+- If you want to copy my design, go ahead, as long as you follow the rules in License.
+1. Download all files in this repository (IT IS NOT COMPLETE YET. THIS WILL BE UPDATED AND REMOVED IN THE FUTURE(QMK FILES NOT COMPLETED))
+2. Get your parts - Get all the parts in the Bill Of Materials
 
 ## Credits-
 Thanks to everyone in the #hackpad slack for helping answer my many questions and teaching me when I didn't understand. Specific thank-yous to:
