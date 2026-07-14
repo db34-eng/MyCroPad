@@ -14,8 +14,7 @@ Check out my PCB & try it out here:
 https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2Fdb34-eng%2FMyCroPad-
 
 Check out my case here: 
-https://autode.sk/3SYLQmZ
-Note: This case is the final design, however, it doesn't have the USB-C Port, but the file under the CAD folder is updated to include the port. 
+https://autode.sk/452PsHg
 
 ## Features-
 - A 3x3 9x Key Matrix
@@ -35,6 +34,11 @@ Note: This case is the final design, however, it doesn't have the USB-C Port, bu
 - If you want to copy my design, go ahead, as long as you follow the rules in License.
 1. Download all files in this repository (IT IS NOT COMPLETE YET. THIS WILL BE UPDATED AND REMOVED IN THE FUTURE(QMK FILES NOT COMPLETED))
 2. Get your parts - Get all the parts in the Bill Of Materials
+3. 3d Print the case - Use the STEP file and a STEP File Converter (found on google) to change it to the file type your computer uses OR if you have Fusion, open the Fusion file and click File -> Export and choose the file type needed.
+4. Manufacture the PCB - Grab the PCB files, boot up KiCad, and edit them if desired. Then, when in the PCB viewer, click File -> Fabrication Outputs -> and choose your desired file type. Then, upload this file to a PCB manufacturer of your choice. (Costs money btw $$$)
+5. Assemble the unit
+6. Use the QMK firmware to make the keyboard work
+7. Have fun with your new MacroPad!!!
 
 ## Credits-
 Thanks to everyone in the #hackpad slack for helping answer my many questions and teaching me when I didn't understand. Specific thank-yous to:
